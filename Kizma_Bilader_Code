@@ -54,7 +54,7 @@ int main () {
 
 void TamEkran(){
 	HWND hWnd = GetConsoleWindow();
-	ShowWindow(hWnd,SW_SHOWMAXIMIZED);  // Console tam ekran yapýlýyor
+	ShowWindow(hWnd,SW_SHOWMAXIMIZED);  // Console tam ekran yapÃ½lÃ½yor
 }
 
 void gotoyx(int s,int k){
